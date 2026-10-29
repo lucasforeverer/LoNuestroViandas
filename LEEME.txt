@@ -1,0 +1,4 @@
+Proyecto Gastro (APK con Capacitor + GitHub Actions)
+- www/index.html  -> la aplicacion
+- .github/workflows/build-apk.yml -> receta que compila la APK en GitHub
+Subi todo a un repositorio de GitHub, entra a la pestana Actions y descarga "Gastro-APK".
